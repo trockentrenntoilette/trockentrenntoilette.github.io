@@ -1,0 +1,40 @@
+{
+  "name": "trockentrenntoilette",
+  "version": "0.1.0",
+  "description": "Alles rund um das Thema Trockentoilette",
+  "license": "Apache-2.0",
+  "author": "Trockentrenntoilette.com",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "build": "gulp",
+    "deploy": "gulp; git commit -am 'npm run deploy'; git push -u origin master"
+  },
+  "browserslist": [
+    "ie >= 10",
+    "ie_mob >= 10",
+    "ff >= 30",
+    "chrome >= 34",
+    "safari >= 7",
+    "opera >= 23",
+    "ios >= 7",
+    "android >= 4.4",
+    "bb >= 1"
+  ],
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "latest",
+    "gulp-csso": "^2.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^7.0.1",
+    "gulp-purgecss": "^4.1.3",
+    "gulp-uglify": "^2.0.0",
+    "run-sequence": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}
