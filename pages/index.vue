@@ -25,7 +25,7 @@
           </div>
 
           <div class="row">
-            <div class="image col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
+            <div class="trobolo col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
             <div class="col-lg-8 d-flex flex-column align-items-stretch">
               <div class="content ps-lg-4 d-flex flex-column justify-content-center">
                 <div class="row">
@@ -115,22 +115,22 @@
         <div class="container">
 
           <div class="section-title">
-            <span>About Me</span>
-            <h2>About Me</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+            <span>Anbieter</span>
+            <h2>MeineTrenntoilette</h2>
+            <p>Bleiben Sie länger an Ihrem Lieblingsort mit MeineTrenntoilette</p>
           </div>
 
           <div class="row">
-            <div class="image col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
+            <div class="meinetrenntoilette col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
             <div class="col-lg-8 d-flex flex-column align-items-stretch">
               <div class="content ps-lg-4 d-flex flex-column justify-content-center">
                 <div class="row">
                   <div class="col-lg-6">
                     <ul>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Name:</strong> <span>Laura Thomso</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Marke:</strong> <span>MeineTrenntoilette</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Webseite:</strong> <span>www.meinetrenntoilette.de</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Telefon:</strong> <span>+49 0211 / 94256050</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Firmensitz:</strong> <span>Düsseldorf, Deutschland</span></li>
                     </ul>
                   </div>
                   <div class="col-lg-6">

@@ -523,8 +523,13 @@ section {
 .about .content .count-box a:hover {
   color: #82909c;
 }
-.about .image {
+.trobolo {
   background: url("../img/trobolo.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+.meinetrenntoilette {
+  background: url("../img/meinetrenntoilette.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
