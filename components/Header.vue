@@ -58,12 +58,12 @@
     >
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">Über uns</a></li>
+          <li><a class="nav-link scrollto active" href="#hero">Start</a></li>
+          <li><a class="nav-link scrollto" href="#about">Anbieter</a></li>
           <li><a class="nav-link scrollto" href="#resume">6 Gründe</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto" href="#services">Wozu das ganze?</a></li>
           <li><a class="nav-link scrollto" href="#portfolio">Produkte</a></li>
-          <li class="dropdown">
+          <!-- <li class="dropdown">
             <a href="#"
               ><span>Drop Down</span> <i class="bi bi-chevron-down"></i
             ></a>
@@ -86,8 +86,8 @@
               <li><a href="#">Drop Down 3</a></li>
               <li><a href="#">Drop Down 4</a></li>
             </ul>
-          </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          </li> -->
+          <li><a class="nav-link scrollto" href="#contact">Kontakt</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>

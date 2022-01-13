@@ -47,59 +47,46 @@
                   </div>
                 </div>
                 <div class="row mt-n4">
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-emoji-smile" style="color: #20b38e;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam architecto ut.</p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-journal-richtextr" style="color: #8a1ac2;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Projects</strong> adipisci atque cum quia aspernatur totam laudantium et quia dere tan</p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-clock" style="color: #2cbdee;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam ducimus aut voluptate non vel</p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-award" style="color: #ffb459;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="16" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et nemo pad der</p>
-                    </div>
+                  <div class="col-md-12 mt-5 align-items-md-stretch">
+                    <p>TROBOLO ist ein Anbieter f&uuml;r Trenntoiletten</p>
+                    <p>TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
                   </div>
                 </div>
               </div><!-- End .content-->
 
-              <div class="skills-content ps-lg-4">
+              <div class="skills-content ps-lg-4 mt-5">
                 <div class="progress">
-                  <span class="skill">HTML <i class="val">100%</i></span>
+                  <span class="skill">Funktionsweise & Geruchsverhinderung<i class="val">100%</i></span>
                   <div class="progress-bar-wrap">
                     <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
 
                 <div class="progress">
-                  <span class="skill">CSS <i class="val">90%</i></span>
+                  <span class="skill">Entleerung & Hygiene & Wartung <i class="val">100%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
 
                 <div class="progress">
-                  <span class="skill">JavaScript <i class="val">75%</i></span>
+                  <span class="skill">Design <i class="val">100%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="progress">
+                  <span class="skill">Material & Langlebigkeit<i class="val">100%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="progress">
+                  <span class="skill">Preis <i class="val">95%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
               </div>
@@ -143,41 +130,83 @@
                   </div>
                 </div>
                 <div class="row mt-n4">
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-emoji-smile" style="color: #20b38e;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam architecto ut.</p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-journal-richtextr" style="color: #8a1ac2;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Projects</strong> adipisci atque cum quia aspernatur totam laudantium et quia dere tan</p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-clock" style="color: #2cbdee;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam ducimus aut voluptate non vel</p>
-                    </div>
-                  </div>
-
-                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                    <div class="count-box">
-                      <i class="bi bi-award" style="color: #ffb459;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="16" data-purecounter-duration="1" class="purecounter"></span>
-                      <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et nemo pad der</p>
-                    </div>
+                  <div class="col-md-12 mt-5 align-items-md-stretch">
+                    <p>MeineTrenntoilette ist ein Anbieter f&uuml;r Trenntoiletten</p>
+                    <p>MeineTrenntoilette ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
                   </div>
                 </div>
               </div><!-- End .content-->
 
               <div class="skills-content ps-lg-4">
+                <div class="progress">
+                  <span class="skill">HTML <i class="val">100%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="progress">
+                  <span class="skill">CSS <i class="val">90%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="progress">
+                  <span class="skill">JavaScript <i class="val">75%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+      </section><!-- End About Me Section -->
+
+      <!-- ======= About Me Section ======= -->
+      <section id="about" class="about">
+        <div class="container">
+
+          <div class="section-title">
+            <span>Anbieter</span>
+            <h2>Kildwick</h2>
+            <p>Die umweltbewusste Öko-Alternative</p>
+          </div>
+
+          <div class="row">
+            <div class="kildwick col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
+            <div class="col-lg-8 d-flex flex-column align-items-stretch">
+              <div class="content ps-lg-4 d-flex flex-column justify-content-center">
+                <div class="row">
+                  <div class="col-lg-6">
+                    <ul>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Marke:</strong> <span>TROBOLO</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Webseite:</strong> <span>www.trobolo.com</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Telefon:</strong> <span>+49 511 / 51510816</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Firmensitz:</strong> <span>Hannover, Deutschland</span></li>
+                    </ul>
+                  </div>
+                  <div class="col-lg-6">
+                    <ul>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="row mt-n4">
+                  <div class="col-md-12 mt-5 align-items-md-stretch">
+                    <p>Kildwick ist ein Anbieter f&uuml;r Trenntoiletten</p>
+                    <p>Kildwick ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
+                  </div>
+                </div>
+              </div><!-- End .content-->
+
+              <div class="skills-content ps-lg-4 mt-5">
                 <div class="progress">
                   <span class="skill">HTML <i class="val">100%</i></span>
                   <div class="progress-bar-wrap">
@@ -611,9 +640,9 @@
         <div class="container">
 
           <div class="section-title">
-            <span>Contact Me</span>
-            <h2>Contact Me</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+            <span>Kontakt</span>
+            <h2>Kontakt aufnehmen</h2>
+            <p>Haben Sie Fragen bez&uuml;glich des Thema's Trenntoiletten? Dann nehmen Sie gerne Kontakt mit uns auf!</p>
           </div>
 
           <div class="row">
