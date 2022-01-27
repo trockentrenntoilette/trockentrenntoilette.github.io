@@ -60,8 +60,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Start</a></li>
           <li><a class="nav-link scrollto" href="#about">Anbieter</a></li>
-          <li><a class="nav-link scrollto" href="#resume">6 Gründe</a></li>
-          <li><a class="nav-link scrollto" href="#services">Wozu das ganze?</a></li>
+          <li><a class="nav-link scrollto" href="#reasons">Gründe</a></li>
           <li><a class="nav-link scrollto" href="#portfolio">Produkte</a></li>
           <!-- <li class="dropdown">
             <a href="#"

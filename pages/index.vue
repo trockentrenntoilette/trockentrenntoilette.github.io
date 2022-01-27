@@ -235,119 +235,46 @@
         </div>
       </section><!-- End About Me Section -->
 
-      <!-- ======= My Resume Section ======= -->
-      <section id="resume" class="resume">
-        <div class="container">
-
-          <div class="section-title">
-            <span>My Resume</span>
-            <h2>My Resume</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
-          </div>
-
-          <div class="row">
-            <div class="col-lg-6">
-              <h3 class="resume-title">Sumary</h3>
-              <div class="resume-item pb-0">
-                <h4>Alice Barkley</h4>
-                <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
-                <p>
-                <ul>
-                  <li>Portland par 127,Orlando, FL</li>
-                  <li>(123) 456-7891</li>
-                  <li>alice.barkley@example.com</li>
-                </ul>
-                </p>
-              </div>
-
-              <h3 class="resume-title">Education</h3>
-              <div class="resume-item">
-                <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                <h5>2015 - 2016</h5>
-                <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
-              </div>
-              <div class="resume-item">
-                <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                <h5>2010 - 2014</h5>
-                <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <h3 class="resume-title">Professional Experience</h3>
-              <div class="resume-item">
-                <h4>Senior graphic design specialist</h4>
-                <h5>2019 - Present</h5>
-                <p><em>Experion, New York, NY </em></p>
-                <p>
-                <ul>
-                  <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                  <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                  <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                  <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-                </ul>
-                </p>
-              </div>
-              <div class="resume-item">
-                <h4>Graphic design specialist</h4>
-                <h5>2017 - 2018</h5>
-                <p><em>Stepping Stone Advertising, New York, NY</em></p>
-                <p>
-                <ul>
-                  <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                  <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                  <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                  <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
-                </ul>
-                </p>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </section><!-- End My Resume Section -->
-
       <!-- ======= My Services Section ======= -->
-      <section id="services" class="services">
+      <section id="reasons" class="services">
         <div class="container">
 
           <div class="section-title">
-            <span>My Services</span>
-            <h2>My Services</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+            <span>Vorteile</span>
+            <h2>Gr&uuml;nde für eine Trockentrenntoilette</h2>
+            <p>Die Gründe für eine Trockentrenntoilette sind vielfältig.</p>
           </div>
 
           <div class="row">
             <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
               <div class="icon-box">
-                <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-                <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                <div class="icon"><i class='bx bx-water'></i></div>
+                <h4 class="title"><a href="">Wasser sparen</a></h4>
+                <p class="description">Eine Trockentrenntoilette kommt komplett ohne Wasser aus</p>
               </div>
             </div>
 
             <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
               <div class="icon-box">
-                <div class="icon"><i class="bx bx-file"></i></div>
-                <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-                <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                <div class="icon"><i class="bx bx-atom"></i></div>
+                <h4 class="title"><a href="">Frei von Chemie</a></h4>
+                <p class="description">EIne Trockentrenntoilette kommt komplett ohne Chemie aus</p>
               </div>
             </div>
 
             <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
               <div class="icon-box">
-                <div class="icon"><i class="bx bx-tachometer"></i></div>
-                <h4 class="title"><a href="">Magni Dolores</a></h4>
-                <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                <div class="icon"><i class="bx bx-check-square"></i></div>
+                <h4 class="title"><a href="">Keine Anschlüsse notwendig</a></h4>
+                <p class="description">Stellen Sie die Trockentrenntoilette dort auf wo Sie wollen</p>
               </div>
             </div>
 
             <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
               <div class="icon-box">
                 <div class="icon"><i class="bx bx-world"></i></div>
-                <h4 class="title"><a href="">Nemo Enim</a></h4>
-                <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                <h4 class="title"><a href="">Nachhaltig</a></h4>
+                <p class="description">Nutzen sie den nährstoffreichen Kompost</p>
               </div>
             </div>
 
@@ -366,11 +293,11 @@
               <div class="swiper-slide">
                 <div class="testimonial-item">
                   <img src="~/static/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
+                  <h3>Steffen Schneider</h3>
+                  <h4>Outdoor Lover</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    Durch die mobile Trenntoilette muss ich mir an keinem Ort in der Natur sorgen machen wo ich mein Geschäft erledigen kann, und die Familie verliert nichts an Komfort.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -380,10 +307,10 @@
                 <div class="testimonial-item">
                   <img src="~/static/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                   <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
+                  <h4>Architektin</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    Der Einsatz einer Trockentrenntoilette erlaubt mir die Platzierung in jedem Ort und an jedem Raum. Das ist genial.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -392,37 +319,11 @@
               <div class="swiper-slide">
                 <div class="testimonial-item">
                   <img src="~/static/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
+                  <h3>Jennifer Hülsmann</h3>
+                  <h4>Van Life</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="~/static/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="~/static/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                    Ich lebe ausschließlich in einem Van und dank einer Trockentrenntoilette hat es mir bisher noch nie an Komfort gefehlt, im Gegenteil. Die Entsorgung ist hygienisch und kinderleicht.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -455,66 +356,66 @@
           <div class="row portfolio-container">
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-haus">
-              <div class="portfolio-img"><img src="~/static/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trobolo-terabloem.jpg" class="img-fluid" alt=""></div>
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                <h4>TeraBlœm</h4>
+                <p>TROBOLO</p>
                 <a href="./assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-camping">
-              <div class="portfolio-img"><img src="~/static/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-kildwick-miniloo.jpg" class="img-fluid" alt=""></div>
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>MiniLoo</h4>
+                <p>Kildwick</p>
                 <a href="./assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-haus">
-              <div class="portfolio-img"><img src="~/static/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-camping filter-haus">
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-kompotoi-separett-weekend.jpg" class="img-fluid" alt=""></div>
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+                <h4>Separett Weekend</h4>
+                <p>Kompotoi</p>
                 <a href="./assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-garten">
-              <div class="portfolio-img"><img src="~/static/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-camping">
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trelino-trelino.png" class="img-fluid" alt=""></div>
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+                <h4>Trelino</h4>
+                <p>Trelino</p>
                 <a href="./assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-camping">
-              <div class="portfolio-img"><img src="~/static/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-garten">
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trobolo-kersaboem-garten-sommer.jpg" class="img-fluid" alt=""></div>
               <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
+                <h4>KersaBœm</h4>
+                <p>TROBOLO</p>
                 <a href="./assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-haus">
-              <div class="portfolio-img"><img src="~/static/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-garten">
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trobolo-kitaboem.jpg" class="img-fluid" alt=""></div>
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+                <h4>KitaBœm </h4>
+                <p>TROBOLO</p>
                 <a href="./assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-garten">
+            <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-garten">
               <div class="portfolio-img"><img src="~/static/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
               <div class="portfolio-info">
                 <h4>Card 1</h4>
@@ -542,7 +443,7 @@
                 <a href="./assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
-            </div>
+            </div> -->
 
           </div>
 
@@ -554,75 +455,74 @@
         <div class="container">
 
           <div class="section-title">
-            <span>Pricing</span>
-            <h2>Pricing</h2>
-            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+            <span>Die besten Trockentrenntoiletten</span>
+            <h2>Preise</h2>
+            <p>Folgend findet ihr eine Auflistung der derzeit besten Trockentrenntoiletten auf dem Markt</p>
           </div>
 
           <div class="row">
 
             <div class="col-lg-3 col-md-6">
               <div class="box">
-                <h3>Free</h3>
-                <h4><sup>$</sup>0<span> / month</span></h4>
+                <h3>MiniLoo</h3>
+                <h4><sup>€</sup>399,00</h4>
                 <ul>
-                  <li>Aida dere</li>
-                  <li>Nec feugiat nisl</li>
-                  <li>Nulla at volutpat dola</li>
-                  <li class="na">Pharetra massa</li>
-                  <li class="na">Massa ultricies mi</li>
+                  <li>Campingtoilette</li>
+                  <li>Platzsparend</li>
+                  <li>Sehr leicht im Gewicht</li>
+                  <li>Günstig</li>
+                  <li>Nutzbar als Stuhl</li>
                 </ul>
                 <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Buy Now</a>
+                  <a href="#" class="btn-buy">Online bestellen</a>
                 </div>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
               <div class="box featured">
-                <h3>Business</h3>
-                <h4><sup>$</sup>19<span> / month</span></h4>
+                <h3>TeraBlœm</h3>
+                <h4><sup>€</sup>439,00</h4>
                 <ul>
-                  <li>Aida dere</li>
-                  <li>Nec feugiat nisl</li>
-                  <li>Nulla at volutpat dola</li>
-                  <li>Pharetra massa</li>
-                  <li class="na">Massa ultricies mi</li>
+                  <li>Vorgefertigter Bausatz</li>
+                  <li>Top Verarbeitung und Design</li>
+                  <li>FSC zertifiziertes Holz</li>
+                  <li>Reichlich Zubehör</li>
+                  <li>Bestes Preis- Leistungsverhältniss</li>
                 </ul>
                 <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Buy Now</a>
+                  <a href="#" class="btn-buy">Online bestellen</a>
                 </div>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
               <div class="box">
-                <h3>Developer</h3>
-                <h4><sup>$</sup>29<span> / month</span></h4>
+                <h3>Trelino</h3>
+                <h4><sup>€</sup>659,00</h4>
                 <ul>
-                  <li>Aida dere</li>
-                  <li>Nec feugiat nisl</li>
-                  <li>Nulla at volutpat dola</li>
-                  <li>Pharetra massa</li>
-                  <li>Massa ultricies mi</li>
+                  <li>Campingtoilette</li>
+                  <li>Holz mit HPL Veredelung</li>
+                  <li>Holzdeckel mit Scharnieren</li>
+                  <li>Verfügbares Zubehör</li>
+                  <li>Einfache Entleerung</li>
                 </ul>
                 <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Buy Now</a>
+                  <a href="#" class="btn-buy">Online bestellen</a>
                 </div>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
               <div class="box">
-                <span class="advanced">Advanced</span>
-                <h3>Ultimate</h3>
-                <h4><sup>$</sup>49<span> / month</span></h4>
+                <h3>Separett Weekend</h3>
+                <h4><sup>€</sup>616,35</h4>
                 <ul>
-                  <li>Aida dere</li>
-                  <li>Nec feugiat nisl</li>
-                  <li>Nulla at volutpat dola</li>
-                  <li>Pharetra massa</li>
-                  <li>Massa ultricies mi</li>
+                  <li>Klein und praktisch</li>
+                  <li>12V Entlüftung</li>
+                  <li>Solarpanel anschließbar</li>
+                  <li>Kunsstoff</li>
+                  <li class="na">Autark (kein Strom notwendig)</li>
                 </ul>
                 <div class="btn-wrap">
                   <a href="#" class="btn-buy">Buy Now</a>
@@ -653,28 +553,28 @@
                 <div class="col-md-12">
                   <div class="info-box">
                     <i class="bx bx-share-alt"></i>
-                    <h3>Social Profiles</h3>
+                    <h3>Soziales Netzwerk</h3>
                     <div class="social-links">
                       <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                      <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                      <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+                      <a href="#" class="youtube"><i class="bi bi-youtube"></i></a>
+                      <!-- <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
                       <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-                      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a> -->
                     </div>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="info-box mt-4">
                     <i class="bx bx-envelope"></i>
-                    <h3>Email Me</h3>
-                    <p>contact@example.com</p>
+                    <h3>Schicken Sie eine Email</h3>
+                    <p>kontakt {at} trockentrenntoilette.com</p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="info-box mt-4">
                     <i class="bx bx-phone-call"></i>
-                    <h3>Call Me</h3>
-                    <p>+1 5589 55488 55</p>
+                    <h3>Rufen Sie uns an</h3>
+                    <p>+49 1522 4141605</p>
                   </div>
                 </div>
               </div>
@@ -685,24 +585,24 @@
               <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                 <div class="row">
                   <div class="col-md-6 form-group">
-                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                    <input type="text" name="name" class="form-control" id="name" placeholder="Ihr Name" required>
                   </div>
                   <div class="col-md-6 form-group mt-3 mt-md-0">
-                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Ihre Email" required>
                   </div>
                 </div>
                 <div class="form-group mt-3">
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Betref" required>
                 </div>
                 <div class="form-group mt-3">
-                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
+                  <textarea class="form-control" name="message" rows="6" placeholder="Nachricht" required></textarea>
                 </div>
                 <div class="my-3">
-                  <div class="loading">Loading</div>
+                  <div class="loading">Ladevorgang</div>
                   <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
+                  <div class="sent-message">Ihre Nachricht wurde abgeschickt. Danke!</div>
                 </div>
-                <div class="text-center"><button type="submit">Send Message</button></div>
+                <div class="text-center"><button type="submit">Nachricht senden</button></div>
               </form>
             </div>
 
