@@ -6,7 +6,8 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "deploy": "nuxt generate && copyfiles CNAME docs/ && git commit -am 'deploying' && git push"
   },
   "dependencies": {
     "core-js": "^3.19.3",
@@ -17,5 +18,7 @@
     "webpack": "^5.65.0"
   },
   "devDependencies": {
+    "copyfiles": "^2.4.1",
+    "html-minifier": "^4.0.0"
   }
 }

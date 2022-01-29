@@ -292,7 +292,7 @@
 
               <div class="swiper-slide">
                 <div class="testimonial-item">
-                  <img src="~/static/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                  <img src="~/static/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="Rezension Trockentrenntoilette">
                   <h3>Steffen Schneider</h3>
                   <h4>Outdoor Lover</h4>
                   <p>
@@ -360,7 +360,7 @@
               <div class="portfolio-info">
                 <h4>TeraBlœm</h4>
                 <p>TROBOLO</p>
-                <a href="portfolio-details.html" class="details-link" title="TROBOLO TeraBlœm"><i class="bx bx-link"></i></a>
+                <a href="" class="details-link" title="TROBOLO TeraBlœm"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
@@ -369,7 +369,7 @@
               <div class="portfolio-info">
                 <h4>MiniLoo</h4>
                 <p>Kildwick</p>
-                <a href="portfolio-details.html" class="details-link" title="Kildwick MiniLoo"><i class="bx bx-link"></i></a>
+                <a href="" class="details-link" title="Kildwick MiniLoo"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
@@ -378,16 +378,16 @@
               <div class="portfolio-info">
                 <h4>Separett Weekend</h4>
                 <p>Kompotoi</p>
-                <a href="portfolio-details.html" class="details-link" title="Kompotoi Separett Weekend"><i class="bx bx-link"></i></a>
+                <a href="" class="details-link" title="Kompotoi Separett Weekend"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-camping">
-              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trelino-trelino.png" class="img-fluid" alt="Trelino"></div>
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trelino-trelino.png" class="img-fluid" alt="Trelino Trelino"></div>
               <div class="portfolio-info">
                 <h4>Trelino</h4>
                 <p>Trelino</p>
-                <a href="portfolio-details.html" class="details-link" title="Trelino"><i class="bx bx-link"></i></a>
+                <a href="" class="details-link" title="Trelino"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
@@ -396,7 +396,7 @@
               <div class="portfolio-info">
                 <h4>KersaBœm</h4>
                 <p>TROBOLO</p>
-                <a href="portfolio-details.html" class="details-link" title="TROBOLO KersaBœm"><i class="bx bx-link"></i></a>
+                <a href="" class="details-link" title="TROBOLO KersaBœm"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
@@ -405,7 +405,7 @@
               <div class="portfolio-info">
                 <h4>KitaBœm </h4>
                 <p>TROBOLO</p>
-                <a href="portfolio-details.html" class="details-link" title="TROBOLO KitaBœm"><i class="bx bx-link"></i></a>
+                <a href="" class="details-link" title="TROBOLO KitaBœm"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
@@ -626,6 +626,11 @@ export default {
         hid: "description",
         name: "description",
         content: "Wo finde ich die passende Trockentrenntoilette und welche Anbieter gibt es? Wie funktioniert eine Trockentrenntoilette und worauf solltest du achten?"
+      },
+      {
+        hid: "robots",
+        name: "robots",
+        content: "noindex"
       }
     ]
   }
