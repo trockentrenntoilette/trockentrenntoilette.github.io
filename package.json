@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "nuxt generate && copyfiles CNAME docs/ && git commit -am 'deploying' && git push"
+    "deploy": "nuxt generate && copyfiles CNAME docs/ && git add docs/* && git commit -am 'deploying' && git push"
   },
   "dependencies": {
     "core-js": "^3.19.3",
