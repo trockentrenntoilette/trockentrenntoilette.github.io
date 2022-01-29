@@ -6,7 +6,7 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero">
       <div class="hero-container">
-        <h1>Trockentrenntoiletten</h1>
+        <h1>Trockentrenntoilette</h1>
         <h2>Anbieter, Produkte & Testberichte</h2>
         <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
       </div>
@@ -341,8 +341,8 @@
         <div class="container">
 
           <div class="section-title">
-            <span>Trockentrenntoiletten</span>
-            <h2>Trockentrenntoiletten</h2>
+            <span>Trockentrenntoilette</span>
+            <h2>Trockentrenntoilette</h2>
             <p>Für welchen Bereich suchst du eine Trockentrenntoilette?</p>
           </div>
 
@@ -449,15 +449,15 @@
         <div class="container">
 
           <div class="section-title">
-            <span>Die besten Trockentrenntoiletten</span>
+            <span>Die beste Trockentrenntoilette</span>
             <h2>Preise</h2>
-            <p>Folgend findet ihr eine Auflistung der derzeit besten Trockentrenntoiletten auf dem Markt</p>
+            <p>Folgend findet ihr eine Auflistung der derzeit besten Trockentrenntoilette auf dem Markt</p>
           </div>
 
           <div class="row">
 
             <div class="col-lg-3 col-md-6">
-              <div class="box">
+              <div class="box miniloo">
                 <h3>MiniLoo</h3>
                 <h4><sup>€</sup>399,00</h4>
                 <ul>
@@ -474,7 +474,7 @@
             </div>
 
             <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
-              <div class="box featured">
+              <div class="box featured terabloem">
                 <h3>TeraBlœm</h3>
                 <h4><sup>€</sup>439,00</h4>
                 <ul>
@@ -491,7 +491,7 @@
             </div>
 
             <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-              <div class="box">
+              <div class="box trelino">
                 <h3>Trelino</h3>
                 <h4><sup>€</sup>659,00</h4>
                 <ul>
@@ -508,7 +508,7 @@
             </div>
 
             <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-              <div class="box">
+              <div class="box separett-weekend">
                 <h3>Separett Weekend</h3>
                 <h4><sup>€</sup>616,35</h4>
                 <ul>
@@ -536,7 +536,7 @@
           <div class="section-title">
             <span>Kontakt</span>
             <h2>Kontakt aufnehmen</h2>
-            <p>Haben Sie Fragen bez&uuml;glich des Thema's  Trockentrenntoiletten? Dann nehmen Sie gerne Kontakt mit uns auf!</p>
+            <p>Haben Sie Fragen bez&uuml;glich des Thema's  Trockentrenntoilette? Dann nehmen Sie gerne Kontakt mit uns auf!</p>
           </div>
 
           <div class="row">
@@ -620,12 +620,12 @@ export default {
   components: { Header },
   name: "IndexPage",
   head: {
-    title: "Trockentrenntoiletten - Alle Anbieter und Produkte",
+    title: "Trockentrenntoilette.com - Alle Anbieter und Produkte",
     meta: [
       {
         hid: "description",
         name: "description",
-        content: "Wo finde ich die passende Trockentrenntoilette und welche Anbieter gibt es? Wie funktionieren Trockentrenntoiletten und worauf solltest du achten?"
+        content: "Wo finde ich die passende Trockentrenntoilette und welche Anbieter gibt es? Wie funktioniert eine Trockentrenntoilette und worauf solltest du achten?"
       },
       {
         hid: "robots",
