@@ -6,7 +6,7 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero">
       <div class="hero-container">
-        <h1>Trockentrenntoilette</h1>
+        <h1>Trockentrenntoiletten</h1>
         <h2>Anbieter, Produkte & Testberichte</h2>
         <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
       </div>
@@ -48,8 +48,8 @@
                 </div>
                 <div class="row mt-n4">
                   <div class="col-md-12 mt-5 align-items-md-stretch">
-                    <p>TROBOLO ist ein Anbieter f&uuml;r Trenntoiletten</p>
-                    <p>TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
+                    <p>TROBOLO ist ein Anbieter f&uuml;r Trockentrenntoiletten</p>
+                    <p>TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
                   </div>
                 </div>
               </div><!-- End .content-->
@@ -131,8 +131,8 @@
                 </div>
                 <div class="row mt-n4">
                   <div class="col-md-12 mt-5 align-items-md-stretch">
-                    <p>MeineTrenntoilette ist ein Anbieter f&uuml;r Trenntoiletten</p>
-                    <p>MeineTrenntoilette ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
+                    <p>MeineTrenntoilette ist ein Anbieter f&uuml;r Trockentrenntoiletten</p>
+                    <p>MeineTrenntoilette ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
                   </div>
                 </div>
               </div><!-- End .content-->
@@ -200,8 +200,8 @@
                 </div>
                 <div class="row mt-n4">
                   <div class="col-md-12 mt-5 align-items-md-stretch">
-                    <p>Kildwick ist ein Anbieter f&uuml;r Trenntoiletten</p>
-                    <p>Kildwick ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
+                    <p>Kildwick ist ein Anbieter f&uuml;r Trockentrenntoiletten</p>
+                    <p>Kildwick ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
                   </div>
                 </div>
               </div><!-- End .content-->
@@ -297,7 +297,7 @@
                   <h4>Outdoor Lover</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Durch die mobile Trenntoilette muss ich mir an keinem Ort in der Natur sorgen machen wo ich mein Geschäft erledigen kann, und die Familie verliert nichts an Komfort.
+                    Durch die mobile Trockentrenntoilette muss ich mir an keinem Ort in der Natur sorgen machen wo ich mein Geschäft erledigen kann, und die Familie verliert nichts an Komfort.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -356,62 +356,56 @@
           <div class="row portfolio-container">
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-haus">
-              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trobolo-terabloem.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trobolo-terabloem.jpg" class="img-fluid" alt="TROBOLO TeraBlœm"></div>
               <div class="portfolio-info">
                 <h4>TeraBlœm</h4>
                 <p>TROBOLO</p>
-                <a href="./assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="TROBOLO TeraBlœm"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-camping">
-              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-kildwick-miniloo.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-kildwick-miniloo.jpg" class="img-fluid" alt="Kildwick MiniLoo"></div>
               <div class="portfolio-info">
                 <h4>MiniLoo</h4>
                 <p>Kildwick</p>
-                <a href="./assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="Kildwick MiniLoo"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-camping filter-haus">
-              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-kompotoi-separett-weekend.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-kompotoi-separett-weekend.jpg" class="img-fluid" alt="Kompotoi Separett Weekend"></div>
               <div class="portfolio-info">
                 <h4>Separett Weekend</h4>
                 <p>Kompotoi</p>
-                <a href="./assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="Kompotoi Separett Weekend"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-camping">
-              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trelino-trelino.png" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trelino-trelino.png" class="img-fluid" alt="Trelino"></div>
               <div class="portfolio-info">
                 <h4>Trelino</h4>
                 <p>Trelino</p>
-                <a href="./assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="Trelino"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-garten">
-              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trobolo-kersaboem-garten-sommer.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trobolo-kersaboem-garten-sommer.jpg" class="img-fluid" alt="TROBOLO KersaBœm"></div>
               <div class="portfolio-info">
                 <h4>KersaBœm</h4>
                 <p>TROBOLO</p>
-                <a href="./assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="TROBOLO KersaBœm"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-garten">
-              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trobolo-kitaboem.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="~/static/assets/img/produkte/trockentrenntoilette-trobolo-kitaboem.jpg" class="img-fluid" alt="TROBOLO KitaBœm"></div>
               <div class="portfolio-info">
                 <h4>KitaBœm </h4>
                 <p>TROBOLO</p>
-                <a href="./assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="TROBOLO KitaBœm"><i class="bx bx-link"></i></a>
               </div>
             </div>
 
@@ -542,7 +536,7 @@
           <div class="section-title">
             <span>Kontakt</span>
             <h2>Kontakt aufnehmen</h2>
-            <p>Haben Sie Fragen bez&uuml;glich des Thema's Trenntoiletten? Dann nehmen Sie gerne Kontakt mit uns auf!</p>
+            <p>Haben Sie Fragen bez&uuml;glich des Thema's  Trockentrenntoiletten? Dann nehmen Sie gerne Kontakt mit uns auf!</p>
           </div>
 
           <div class="row">
@@ -625,5 +619,15 @@ import Header from "../components/Header.vue";
 export default {
   components: { Header },
   name: "IndexPage",
+  head: {
+    title: "Trockentrenntoiletten - Alle Anbieter und Produkte",
+    meta: [
+      {
+        hid: "description",
+        name: "description",
+        content: "Wo finde ich die passende Trockentrenntoilette und welche Anbieter gibt es? Wie funktioniert eine Trockentrenntoilette und worauf solltest du achten?"
+      }
+    ]
+  }
 };
 </script>

@@ -678,9 +678,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: linear-gradient(134deg,#245037 0,#2ecc9d 100%);
   position: relative;
 }
 .testimonials::before {
