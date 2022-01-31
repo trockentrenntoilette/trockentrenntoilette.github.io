@@ -37,7 +37,15 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    '@nuxtjs/sitemap',
+    '@nuxtjs/robots'
   ],
+
+  // Sitemap
+  sitemap: {
+    hostname: 'https://trockentrenntoilette.com',
+    gzip: true
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
