@@ -37,19 +37,29 @@
                       <li><i class="bi bi-chevron-right"></i> <strong>Firmensitz:</strong> <span>Hannover, Deutschland</span></li>
                     </ul>
                   </div>
-                  <div class="col-lg-6">
+                  <!-- <div class="col-lg-6">
                     <ul>
                       <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                     </ul>
-                  </div>
+                  </div> -->
                 </div>
                 <div class="row mt-n4">
                   <div class="col-md-12 mt-5 align-items-md-stretch">
-                    <p>TROBOLO ist ein Anbieter f&uuml;r Trockentrenntoiletten</p>
-                    <p>TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
+                    <p>TROBOLO ist ein deutscher Hersteller f&uuml;r Trockentrenntoiletten.</p>
+                    <p>TROBOLO ist der bekannteste Anbieter für Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Weiterhin gibt es für jede Toilette eine große Auswahl an Zubehör.</p>
+
+                     <p>Ab einem Warenwert von 50,00 € versendet TROBOLO die Ware kostenlos nach Deutschland, Österreich, Frankreich und Belgien. Eine Bezahlung ist per Banküberweisung, PayPal, Sofortüberweisung, Kreditkarte, Klarna Rechnungskauf und Klarna Ratenkauf (ab 200 €) möglich.</p>
+
+                    <p>In Sortiment von TROBOLO findet man Trockentrenntoiletten für den Innenbereich, Außenbereich, aber auch mobile Trockentrenntoiletten. Für nahezu jedes Produkt von TROBOLO ist reichlich Zubehör verfügbar, sodass es zum Beispiel möglich ist, auf einfache weise ein elektronisches Abluftsystem hinzuzufügen.</p>
+
+                    <p>Die Trockentrenntoiletten von TROBOLO kommen entweder vorgefertigt daher oder sind als Bausatz verfügbar. Der Zusammenbau ist sehr einfach und erfodert keine handwerkliche Begabung. Alle Trockentrenntoiletten von TROBOLO funktionieren autark, es ist also weder Wasser noch Chemie notwendig. Die Geruchsentwicklung ist bei den Trockentrenntoiletten von TROBOLO sehr gering. Dies wird durch den Trenneinsatz sowie Einstreu ermöglicht.</p> 
+
+                    <p>Erwähnt sei auch das die Qualität eines TROBOLO's im Vergleich zu den anderen Anbietern sehr gut ausfällt. Die Wahl der Materialen und die per handarbeit angefertigten Toiletten sind qualität nicht nur auf höchstem Niveau, sondern sehen auch noch sehr gut aus. Eine Trockentrenntoilette von TROBOLO ist daher nicht nur ein tolles, umweltfreundliches Produkt, sondern auch ein natürliches, stilvolles Design Element für den modernen, bewussten Menschen.</p>
+
+                    <p>Wer nichts falsch machen möchte, greift zu einem TROBOLO.</p>
                   </div>
                 </div>
               </div><!-- End .content-->
@@ -63,9 +73,9 @@
                 </div>
 
                 <div class="progress">
-                  <span class="skill">Entleerung & Hygiene & Wartung <i class="val">100%</i></span>
+                  <span class="skill">Entleerung & Hygiene & Wartung <i class="val">99%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
 
@@ -84,9 +94,9 @@
                 </div>
 
                 <div class="progress">
-                  <span class="skill">Preis <i class="val">95%</i></span>
+                  <span class="skill">Preis & Leistungsverhältniss<i class="val">99%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
               </div>
@@ -104,7 +114,7 @@
           <div class="section-title">
             <span>Anbieter</span>
             <h2>MeineTrenntoilette</h2>
-            <p>Bleiben Sie länger an Ihrem Lieblingsort mit MeineTrenntoilette</p>
+            <p>Bleiben Sie länger an Ihrem Lieblingsort mit MeineTrenntoilette.</p>
           </div>
 
           <div class="row">
@@ -116,46 +126,66 @@
                     <ul>
                       <li><i class="bi bi-chevron-right"></i> <strong>Marke:</strong> <span>MeineTrenntoilette</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>Webseite:</strong> <span>www.meinetrenntoilette.de</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Telefon:</strong> <span>+49 0211 / 94256050</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Telefon:</strong> <span>+49 211 / 94256050</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>Firmensitz:</strong> <span>Düsseldorf, Deutschland</span></li>
                     </ul>
                   </div>
-                  <div class="col-lg-6">
+                  <!-- <div class="col-lg-6">
                     <ul>
                       <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                     </ul>
-                  </div>
+                  </div> -->
                 </div>
                 <div class="row mt-n4">
                   <div class="col-md-12 mt-5 align-items-md-stretch">
-                    <p>MeineTrenntoilette ist ein Anbieter f&uuml;r Trockentrenntoiletten</p>
-                    <p>MeineTrenntoilette ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
+                    <p>MeineTrenntoilette ist ein auf den mobilen Einsatz spezialisierter Anbieter f&uuml;r Trockentrenntoiletten</p>
+                   <p>In der Regel werden die Produkte von MeineTrenntoilette vorgefertigt geliefert. Der Einsatz eignet sich vor allem für Bullis, Vans und im allgemeinen wenn mobilität notwendig ist, wie zum Beispiel beim Camping. </p>
+                   
+                   <p>Es gibt unterschiedliche Ausführungen der Trockentrenntoiletten. So sind zum Beispiel Produkte aus Holz mit HPL Veredelung vorhanden, aber auch Toiletten aus Kunststoff. Da die Trockentrenntoiletten für den mobilen Einsatz gedacht sind, kommen sie meist mit einem magnetisch befestigtem Deckel daher, sodass unterwegs beim Fahren die Sicherheit gewährt ist, das der Deckel nicht versehentlich aufspringt wenn der Fahrtweg mal etwas holpriger ist.</p>
+                   
+                   <p>Ebenfalls bietet MeineTrenntoilette Zubehör wie optionale Lüfter an um der Geruchsentwicklung entgegenzuwirken. Zu beachten sei hierbei, das das Loch in der Trockentrenntoilette von einem selbst und individuell gebohrt werden muss, da der Einsatz und die Platzierung im mobilen Fahrzeug ja gewiss individuell ausfällt. Notwendig ist dazu ein 39 mm Stufenbohrer.</p>
+
+                  <p>Im allgemeinen ist MeineTrenntoilette auch ein umfangreiches Informationsportal bei dem es sich sicherlich vorbeizuschauen lohnt.</p>
                   </div>
                 </div>
               </div><!-- End .content-->
 
-              <div class="skills-content ps-lg-4">
+              <div class="skills-content ps-lg-4 mt-5">
                 <div class="progress">
-                  <span class="skill">HTML <i class="val">100%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-                </div>
-
-                <div class="progress">
-                  <span class="skill">CSS <i class="val">90%</i></span>
+                  <span class="skill">Funktionsweise & Geruchsverhinderung<i class="val">90%</i></span>
                   <div class="progress-bar-wrap">
                     <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
 
                 <div class="progress">
-                  <span class="skill">JavaScript <i class="val">75%</i></span>
+                  <span class="skill">Entleerung & Hygiene & Wartung <i class="val">90%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="progress">
+                  <span class="skill">Mobilität <i class="val">95%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="progress">
+                  <span class="skill">Material & Langlebigkeit<i class="val">80%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="progress">
+                  <span class="skill">Preis & Leistungsverhältniss<i class="val">85%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
               </div>
@@ -183,48 +213,69 @@
                 <div class="row">
                   <div class="col-lg-6">
                     <ul>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Marke:</strong> <span>TROBOLO</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Webseite:</strong> <span>www.trobolo.com</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Telefon:</strong> <span>+49 511 / 51510816</span></li>
-                      <li><i class="bi bi-chevron-right"></i> <strong>Firmensitz:</strong> <span>Hannover, Deutschland</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Marke:</strong> <span>Kildwick</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Webseite:</strong> <span>www.kildwick.com</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Telefon:</strong> <span>+49 341 / 2155151</span></li>
+                      <li><i class="bi bi-chevron-right"></i> <strong>Firmensitz:</strong> <span>Leipzig, Deutschland</span></li>
                     </ul>
                   </div>
-                  <div class="col-lg-6">
+                  <!-- <div class="col-lg-6">
                     <ul>
                       <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
                       <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                     </ul>
-                  </div>
+                  </div> -->
                 </div>
                 <div class="row mt-n4">
                   <div class="col-md-12 mt-5 align-items-md-stretch">
-                    <p>Kildwick ist ein Anbieter f&uuml;r Trockentrenntoiletten</p>
-                    <p>Kildwick ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r. TROBOLO ist der bekannteste Anbieter f&uuml;r Trockentrenntoiletten im deutschen Raum. Die Toiletten werden aus FSC-zertifiziertem Holz per handarbeit hergestellt. TROBOLO ist der Mercedes unter den Trockentrenntoiletten und dies nicht ohne Grund. Die Toiletten sind geruchslos, einfach zu entleeren und sehen optisch sogar noch sehr gut aus. Wer nichts falsch machen will, sollte sich eine Trockentrenntoilette von TROBOLO zulegen. Weiterhin gibt es f&uuml;r jede Toilette eine gro&szlig;e Auswahl an Zubeh&ouml;r.</p>
+                    <p>Kildwick ist ebenfalls ein Anbieter für Trockentrenntoiletten mit Ursprung in Großbitannien.</p>
+
+                  <p>Die Urprungsidee von Kildwick war es, die umweltfreundlichste, komfortabelste und günstigste Trockentrenntoilette der Welt zu entwickeln. Die Produktpalette von Kildwick reicht von Trockentrenntoiletten zu Trenneinsätzen bis hin zu Bausätzen und Zubehör.</p>
+
+                  <p>Im Grunde genommen gibt es zwei Trockentrenntoiletten Basismodelle von Kildwick, die MiniLoo und die FancyLoo. Optisch ähneln diese sich sehr, kommen aber mit unterschiedlichen Funktionen und Zubehör daher. Der Fokus von Kildwick ist es, eine Trockentrenntoilette zu entwickeln, welche den Wunsch nach Mobilität bedient. Dementsprechen fallen die Produkte sehr leicht im Gewicht aus, was sehr vorteilhaft ist für Menschen die ihre Trockentrenntoilette desöfteren bewegen müssen.</p>
+                  <p>Das verwendete Material der mobilen Camping Toilette ist Birkensperrholz. Die Trockentrenntoilette ist sehr klein, der Korpus hat nichtsdestotrotz eine Belastbarkeit von 150 KG und der Toilettendeckel eine Belastbarkeit von 100 KG.</p>
+                  <p>Vorteilhaft bei der Toilette von Kildwick ist, das das optionale Abluftsystem per USB aufgeladen werden kann. Dies ermöglicht eine einfache Aufladung zum Beispiel per Solarzelle oder per Powerbank. Ist der Akku einmal aufgeladen, schnurrt das Abluftsystem sehr leise und hält sehr lange durch.</p>
+
+                  <p>Wer auf der Suche nach einer mobilen Trockentrenntoilette ist, welche wenig Platz und Gewicht einnimmt, ist bei Kildwick genau richtig.</p>
                   </div>
                 </div>
               </div><!-- End .content-->
 
               <div class="skills-content ps-lg-4 mt-5">
                 <div class="progress">
-                  <span class="skill">HTML <i class="val">100%</i></span>
+                  <span class="skill">Funktionsweise & Geruchsverhinderung<i class="val">95%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
 
                 <div class="progress">
-                  <span class="skill">CSS <i class="val">90%</i></span>
+                  <span class="skill">Entleerung & Hygiene & Wartung <i class="val">90%</i></span>
                   <div class="progress-bar-wrap">
                     <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
 
                 <div class="progress">
-                  <span class="skill">JavaScript <i class="val">75%</i></span>
+                  <span class="skill">Mobilität <i class="val">100%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="progress">
+                  <span class="skill">Material & Langlebigkeit<i class="val">90%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="progress">
+                  <span class="skill">Preis & Leistungsverhältniss<i class="val">80%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
               </div>
@@ -266,7 +317,7 @@
               <div class="icon-box">
                 <div class="icon"><i class="bx bx-check-square"></i></div>
                 <h4 class="title"><a href="">Keine Anschlüsse notwendig</a></h4>
-                <p class="description">Stellen Sie die Trockentrenntoilette dort auf wo Sie wollen</p>
+                <p class="description">Stellen Sie die Trockentrenntoilette dort auf wo Sie möchten</p>
               </div>
             </div>
 
