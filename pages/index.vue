@@ -677,11 +677,6 @@ export default {
         hid: "description",
         name: "description",
         content: "Wo finde ich die passende Trockentrenntoilette und welche Anbieter gibt es? Wie funktioniert eine Trockentrenntoilette und worauf solltest du achten?"
-      },
-      {
-        hid: "robots",
-        name: "robots",
-        content: "noindex"
       }
     ]
   }
