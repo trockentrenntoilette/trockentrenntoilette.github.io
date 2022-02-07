@@ -141,7 +141,7 @@
                 </div>
                 <div class="row mt-n4">
                   <div class="col-md-12 mt-5 align-items-md-stretch">
-                    <p>MeineTrenntoilette ist ein auf den mobilen Einsatz spezialisierter Anbieter f&uuml;r Trockentrenntoiletten</p>
+                    <p>MeineTrenntoilette ist ein auf den mobilen Einsatz spezialisierter Anbieter f&uuml;r Trockentrenntoiletten.</p>
                    <p>In der Regel werden die Produkte von MeineTrenntoilette vorgefertigt geliefert. Der Einsatz eignet sich vor allem für Bullis, Vans und im allgemeinen wenn mobilität notwendig ist, wie zum Beispiel beim Camping. </p>
                    
                    <p>Es gibt unterschiedliche Ausführungen der Trockentrenntoiletten. So sind zum Beispiel Produkte aus Holz mit HPL Veredelung vorhanden, aber auch Toiletten aus Kunststoff. Da die Trockentrenntoiletten für den mobilen Einsatz gedacht sind, kommen sie meist mit einem magnetisch befestigtem Deckel daher, sodass unterwegs beim Fahren die Sicherheit gewährt ist, das der Deckel nicht versehentlich aufspringt wenn der Fahrtweg mal etwas holpriger ist.</p>
@@ -234,7 +234,7 @@
 
                   <p>Die Urprungsidee von Kildwick war es, die umweltfreundlichste, komfortabelste und günstigste Trockentrenntoilette der Welt zu entwickeln. Die Produktpalette von Kildwick reicht von Trockentrenntoiletten zu Trenneinsätzen bis hin zu Bausätzen und Zubehör.</p>
 
-                  <p>Im Grunde genommen gibt es zwei Trockentrenntoiletten Basismodelle von Kildwick, die MiniLoo und die FancyLoo. Optisch ähneln diese sich sehr, kommen aber mit unterschiedlichen Funktionen und Zubehör daher. Der Fokus von Kildwick ist es, eine Trockentrenntoilette zu entwickeln, welche den Wunsch nach Mobilität bedient. Dementsprechen fallen die Produkte sehr leicht im Gewicht aus, was sehr vorteilhaft ist für Menschen die ihre Trockentrenntoilette desöfteren bewegen müssen.</p>
+                  <p>Im Grunde genommen gibt es zwei Trockentrenntoiletten Basismodelle von Kildwick, die MiniLoo und die FancyLoo. Optisch ähneln diese sich sehr, kommen aber mit unterschiedlichen Funktionen und Zubehör daher. Der Fokus von Kildwick ist es, eine Trockentrenntoilette zu entwickeln, welche den Wunsch nach Mobilität bedient. Dementsprechend fallen die Produkte sehr leicht im Gewicht aus, was sehr vorteilhaft ist für Menschen die ihre Trockentrenntoilette desöfteren bewegen müssen.</p>
                   <p>Das verwendete Material der mobilen Camping Toilette ist Birkensperrholz. Die Trockentrenntoilette ist sehr klein, der Korpus hat nichtsdestotrotz eine Belastbarkeit von 150 KG und der Toilettendeckel eine Belastbarkeit von 100 KG.</p>
                   <p>Vorteilhaft bei der Toilette von Kildwick ist, das das optionale Abluftsystem per USB aufgeladen werden kann. Dies ermöglicht eine einfache Aufladung zum Beispiel per Solarzelle oder per Powerbank. Ist der Akku einmal aufgeladen, schnurrt das Abluftsystem sehr leise und hält sehr lange durch.</p>
 
