@@ -44,7 +44,7 @@ export default {
 
   // Sitemap
   sitemap: {
-    hostname: 'https://trockentrenntoilette.com',
+    hostname: 'https://www.trockentrenntoilette.com',
     gzip: true
   },
 
