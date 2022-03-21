@@ -510,7 +510,7 @@
             <div class="col-lg-3 col-md-6">
               <div class="box miniloo">
                 <h3>MiniLoo</h3>
-                <h4><sup>€</sup>399,00</h4>
+                <h4><sup>€</sup>579,00</h4>
                 <ul>
                   <li>Campingtoilette</li>
                   <li>Platzsparend</li>
@@ -527,7 +527,7 @@
             <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
               <div class="box featured terabloem">
                 <h3>TeraBlœm</h3>
-                <h4><sup>€</sup>439,00</h4>
+                <h4><sup>€</sup>429,00</h4>
                 <ul>
                   <li>Vorgefertigter Bausatz</li>
                   <li>Top Verarbeitung und Design</li>
@@ -570,7 +570,7 @@
                   <li class="na">Autark (kein Strom notwendig)</li>
                 </ul>
                 <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Buy Now</a>
+                  <a href="#" class="btn-buy">Online bestellen</a>
                 </div>
               </div>
             </div>
