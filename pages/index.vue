@@ -657,6 +657,8 @@
       </section><!-- End Contact Me Section -->
 
     </main><!-- End #main -->
+
+    <SeoTextIndex />
     
     <Footer />
 
